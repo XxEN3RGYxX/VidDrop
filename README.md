@@ -1,6 +1,6 @@
 🎬 VidDrop
 
-VidDrop is a simple yet powerful YouTube downloader with a sleek modern GUI built using customtkinter and powered by yt-dlp.
+VidDrop is a simple yet powerful YouTube downloader with a very easy GUI built using customtkinter and powered by yt-dlp.
 Download your favorite videos or extract audio in just a few clicks!
 
 
