@@ -27,6 +27,10 @@ Download your favorite videos or extract audio in just a few clicks!
 
 🚀 How to Use
 
+- Go to Releases
+
+- Download VidDrop.exe
+
 - Launch the app
 
 - Paste a YouTube link in the URL field
