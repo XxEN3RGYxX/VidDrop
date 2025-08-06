@@ -41,4 +41,12 @@ Download your favorite videos or extract audio in just a few clicks!
 
 - Enjoy your media offline 🎉
 
+💖 Support the Project
+
+If you find this tool helpful and want to support its development, consider making a small donation. Your contribution helps me maintain and improve this project over time.
+Thank you for your support!
+
+[💸 Donate via PayPal](https://www.paypal.com/donate/?hosted_button_id=DRAN8WPQL2JAQ)
+
+
 
